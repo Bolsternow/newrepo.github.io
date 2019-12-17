@@ -1,2 +1,2 @@
-# newrepo.github.io
+# http://newrepo.github.io
  
